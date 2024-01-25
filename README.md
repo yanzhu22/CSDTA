@@ -29,5 +29,5 @@ The benchmark dataset can be found in `./data/`. Please see our paper for more d
 ### Training
 To train our model:
 python main_Gaussian.py
-### contact
-Yan Zhu: zhuyaner@hit.stu.edu.cn
+### Contact
+zhuyaner@hit.stu.edu.cn
