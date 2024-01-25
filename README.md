@@ -1,4 +1,7 @@
-# CSDTA: Drug-Target Binding Affinity Prediction In A Continuous Latent Space Using Variational Autoencoders
+## About CSDTA
+Drug-Target Binding Affinity Prediction In A Continuous Latent Space Using Variational Autoencoders.
+
+The benchmark dataset can be found in `./data/`. Please see our paper for more details.
 
 ### Requirements:
   Python Version: 3.8.2
@@ -22,3 +25,9 @@
   - torchaudio==0.10.0
   - torchvision==0.11.1
   - torchviz==0.0.2
+
+### Training
+To train our model:
+python main_Gaussian.py
+### contact
+Yan Zhu: zhuyaner@hit.stu.edu.cn
